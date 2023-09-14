@@ -5,6 +5,21 @@ connection = sqlite3.connect('database.db')
 
 # with open('schema.sql') as f:
 #     connection.executescript(f.read())
+connection.execute(
+    '''
+    DROP TABLE IF EXISTS posts;
+    '''
+)
+connection.execute(
+    '''
+    CREATE TABLE posts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    title TEXT NOT NULL,
+    content TEXT NOT NULL
+);'''
+)
+
 
 cur = connection.cursor()
 
