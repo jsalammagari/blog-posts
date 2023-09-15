@@ -30,6 +30,5 @@ cur.execute("INSERT INTO posts (title, content) VALUES (?, ?)",
 cur.execute("INSERT INTO posts (title, content) VALUES (?, ?)",
             ('Second Post', 'Content for the second post')
             )
-print("Database created successfully")
 connection.commit()
 connection.close()
