@@ -1,6 +1,8 @@
 # blog-posts
 Simple post app to showcase the use case of flask framework with vagrant.
 
-The link for the Comparision of serverless is [here](https://docs.google.com/document/d/1-A7R59v0SywNT4U-z9zuJr-OVBV_SGs8/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true)
+Assignment1 - The link for the Comparision of serverless is [here](https://docs.google.com/document/d/1ZMfFebXM1a8C61j9na-_V8ALXVABPx2t/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true)
 
-The link for the deploying the docker image is [here](https://docs.google.com/document/d/1hFGcbb7j_Jifg1VFa8kw1hYBUuPCn-th/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true)
+Assignment2 - The link for the deploying the docker image is [here](https://docs.google.com/document/d/1pv_gEUWsCr3FmIjAq2ELFDWcvEjDYbYb/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true)
+
+Assignment3 - The link for performance comparision of an application running in VMs and containers is [here](https://docs.google.com/document/d/1nk4Ry7n-d2CuQTfkxn1vMS7XDnnVz0q6/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true)
